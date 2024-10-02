@@ -3,5 +3,18 @@
         "apps": [
             "7V4W5B6JLP.com.classera.C-SVA"
         ]
+    },
+    "applinks": {
+        "apps": [
+            "7V4W5B6JLP.com.classera.C-SVA"
+        ],
+        "details": [
+            {
+                "appID": "7V4W5B6JLP.com.classera.C-SVA",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
