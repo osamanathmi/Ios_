@@ -1,11 +1,7 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "TeamID.BundleID",
-                "paths": ["*"]
-            }
+    "webcredentials": {
+        "apps": [
+            "7V4W5B6JLP.com.classera.C-SVA"
         ]
     }
 }
